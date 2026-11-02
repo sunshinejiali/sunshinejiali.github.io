@@ -21,4 +21,7 @@ This blog serves as a repository for my technical notes, performance tuning logs
 All of the above is pure fiction.
 
 wx: moruoxushang
+
 e-mail: sunshinejiali98@163.com
+
+Go go go~
